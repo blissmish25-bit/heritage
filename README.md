@@ -1,6 +1,7 @@
 # HERITA — Living Cultural Heritage Platform
 **Smart India Hackathon (SIH 2026) | Full-Stack Working Prototype**
-
+here is the link to try out the demo of the website
+https://heritage-843y.onrender.com/
 Herita is an AI-powered cultural heritage ecosystem structured around three core actions:
 $$\mathbf{DISCOVER} \longrightarrow \mathbf{EXPERIENCE} \longrightarrow \mathbf{PRESERVE}$$
 
